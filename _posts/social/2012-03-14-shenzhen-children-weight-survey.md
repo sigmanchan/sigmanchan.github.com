@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 title: 讀不懂的深圳市國民體質狀況公報
 category: social
 tags: [深圳]
-description: 只有體質指數 BMI，沒有特重率
+description: 肥胖和超重判斷依據 BMI
 ---
+
 {% include JB/setup %}
 3歲-69歲深圳市民特重率男幼兒為18.6 %，《南方都市報》深圳讀本 AⅡ08 版報導。看到『特重率』三個字，我呼吸遲滯，思想短路，搜刮記憶但奈何找不到蛛絲馬跡。到文體旅遊局[網站公示](http://www.szwtl.gov.cn/engine/gettemplate.jsp?temp_Id=47&guid=%7BCB5B2D36-0000-0000-0B3B-010600000071%7D&pid=61)一看，報紙果然沒有引用錯誤。頓感學識落伍，幾番搜尋網站仍然找不到『特重率』解釋。
 
